@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1628581768039" clover="3.2.0">
+  <project timestamp="1628581768040" name="All files">
+    <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0" elements="5" coveredelements="0" complexity="0" loc="3" ncloc="3" packages="1" files="1" classes="1"/>
+    <file name="Counter.vue" path="/Users/liutongbin/Documents/else/jest-vue/jest-vue/src/components/Counter.vue">
+      <metrics statements="3" coveredstatements="0" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+      <line num="11" count="0" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>

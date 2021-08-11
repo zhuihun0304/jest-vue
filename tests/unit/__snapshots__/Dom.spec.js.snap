@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Dom.vue has the expected html structure 1`] = `
+<div>
+  <div
+    class="outer"
+  >
+    <p>
+      Cat
+    </p>
+     
+    <button>
+      
+    </button>
+  </div>
+</div>
+`;
