@@ -4,7 +4,8 @@ import router from "./router";
 import store from "./store";
 import "./views/mock/mock";
 Vue.config.productionTip = false;
-
+import { upGetUserInfo } from "./views/utils/uplus";
+upGetUserInfo();
 new Vue({
   router,
   store,

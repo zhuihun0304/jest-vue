@@ -31,6 +31,6 @@ module.exports = {
   // Jest输出覆盖信息文件的目录。
   coverageDirectory: "<rootDir>/tests/unit/coverage",
   transformIgnorePatterns: ["/node_modules/"],
-  testURL: "http://localhost/",
+  testURL: "http://0.0.0.0",
   preset: "@vue/cli-plugin-unit-jest",
 };

@@ -9,6 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "@uplus/uplus-api": "3.7.0-beta21",
     "axios": "^0.21.1",
     "core-js": "^3.6.5",
     "flush-promises": "^1.0.2",
